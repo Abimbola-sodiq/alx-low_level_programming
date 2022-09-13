@@ -45,8 +45,4 @@ _putchar('\n'); /*new line*/
 } /*end while*/
 
 
-
-
-
-
-
+}
